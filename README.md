@@ -1,20 +1,24 @@
 # Next js starter by tri
 
-1. nextjs with typescript default template
-2. css with tailwindcss
-3. eslint + pretier + husky + commitizen
+1. Next.Js & Typescript
+2. Tailwindcss
+3. Eslint
+4. Pretier
+5. Husky
+6. commitizen for Traditional commit
 
-# How to clone
+# How to to get started
 
 1. clone this repo
-2. pnpm install
+2. cd repo_name
+3. pnpm install
 
 # how to lint ?
 
 pnpm lint
 
-#how to commit
+# how to commit
 
 1. git add .
 2. pnpm commit
-3. push
+3. git push
